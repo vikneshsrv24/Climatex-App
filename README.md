@@ -29,9 +29,9 @@ A beautiful and dynamic weather app built using Flutter that fetches real-time w
 
 ## Screenshots
 <p float="left">
-  <img src="" width="33%" />
-  <img src="https://github.com/totallyalien/Climatex/assets/97169836/efdb78b8-2d39-4c09-b0ca-25703f87b316" width="33%" />
-  <img src="https://github.com/totallyalien/Climatex/assets/97169836/f3d6f8ad-18e1-4138-a61a-abd01d68dddb" width="33%" />
+  <img src="![climateX 1](https://github.com/vikneshsrv24/Climatex-App/assets/97838319/f5a9fe80-29e6-4ebe-bc6a-9a1afd0da884)" width="33%" />
+  <img src="![climateX 2](https://github.com/vikneshsrv24/Climatex-App/assets/97838319/81d8e2dc-7640-4f43-b8c4-92bd224fd779)" width="33%" />
+  <img src="![climateX 3](https://github.com/vikneshsrv24/Climatex-App/assets/97838319/b35471fc-d9ac-4bfb-89ed-58411971ea4c)" width="33%" />
 </p>
 ## Getting Started
 
